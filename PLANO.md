@@ -1,19 +1,19 @@
 # 📋 Plano do projeto: assistente-juridico-programa-14-10-1
 
-_Gerado em 14/10/2026, 10:59:16 — sem IA, lendo os arquivos._
+_Gerado em 14/10/2026, 11:02:25 — sem IA, lendo os arquivos._
 
 ## 📊 Visão geral
 | Item | Valor |
 |---|---|
-| Arquivos | 165 |
-| Linhas | 35.747 |
+| Arquivos | 167 |
+| Linhas | 35.848 |
 | Telas/páginas | 38 |
 | Rotas do backend | 101 |
 | Chamadas do app | 92 |
 | Tabelas do banco | 16 |
 | Variáveis de ambiente | 22 |
 
-**Linguagens:** TypeScript (React) (71), Imagem (33), TypeScript (17), JSON (9), JavaScript (8), HTML (6), Outros (4), Imagem SVG (4), YAML (3), Markdown (3), Ícone (2), Batch (Windows) (2), CSS (1), Shell (1), SQL (1)
+**Linguagens:** TypeScript (React) (71), Imagem (33), TypeScript (17), JSON (10), JavaScript (8), HTML (6), Outros (4), YAML (4), Imagem SVG (4), Markdown (3), Ícone (2), Batch (Windows) (2), CSS (1), Shell (1), SQL (1)
 
 ## 💡 O que fazer (em ordem)
 1. 🧹 Tirar a Replit de 6 arquivo(s) (🏗️ Preparar → Fazer tudo)
@@ -415,6 +415,7 @@ _Só os nomes. Os valores (chaves, senhas) nunca vão no código nem no GitHub._
 ├─ 📁 .github/
 │  └─ 📁 workflows/
 │     ├─ apk-capacitor.yml
+│     ├─ apk.yml
 │     ├─ desktop-exe.yml
 │     └─ programa-exe.yml
 ├─ 📁 client/
@@ -582,6 +583,7 @@ _Só os nomes. Os valores (chaves, senhas) nunca vão no código nem no GitHub._
 ├─ .env.exemplo
 ├─ .gitignore
 ├─ .npmrc
+├─ apk.config.json
 ├─ capacitor.config.json
 ├─ components.json
 ├─ favicon.ico
