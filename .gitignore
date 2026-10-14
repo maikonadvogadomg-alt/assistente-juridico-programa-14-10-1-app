@@ -1,0 +1,9 @@
+node_modules/
+dist/
+dados/
+.env
+*.log
+.vercel/
+release/
+dist-server/
+dist-electron/
