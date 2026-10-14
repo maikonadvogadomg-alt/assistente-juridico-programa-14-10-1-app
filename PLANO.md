@@ -1,6 +1,6 @@
 # 📋 Plano do projeto: assistente-juridico-programa-14-10-1
 
-_Gerado em 14/10/2026, 11:02:25 — sem IA, lendo os arquivos._
+_Gerado em 14/10/2026, 11:05:27 — sem IA, lendo os arquivos._
 
 ## 📊 Visão geral
 | Item | Valor |
